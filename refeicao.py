@@ -16,3 +16,5 @@ if comida_noite != comida_dia :
 else:
     print("Você comeu o mesmo do almoço!")
 
+    
+
